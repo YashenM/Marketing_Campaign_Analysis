@@ -8,7 +8,7 @@ The dataset used in this project is available on [Kaggle](https://www.kaggle.com
 - **Demographics**: Age, Education, Marital Status, Income.
 - **Spending Behavior**: Amount spent on wines, meat products, fruits, etc.
 - **Campaign Response**: Acceptance rates for 6 marketing campaigns.
-- For a detailed description of the dataset features, see the [Data Dictionary](Data_Dictionary.md).
+For a detailed description of the dataset features, see the [Data Dictionary](Data_Dictionary.md).
 
 ## Methodology
 1. **Data Cleaning**:
