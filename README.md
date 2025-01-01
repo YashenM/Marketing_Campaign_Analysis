@@ -11,6 +11,25 @@ The dataset used in this project is available on [Kaggle](https://www.kaggle.com
 
 For a detailed description of the dataset features, see the [Data Dictionary](Data_Dictionary.md).
 
+## Repository Structure
+Here’s an overview of the files and folders in this repository:
+
+Marketing_Campaign_Analysis/
+│
+├── README.md # Overview of the project
+├── Executive_Summary.pdf # Concise report of findings and recommendations (to be added)
+├── Data_Dictionary.md # Description of dataset features
+├── LICENSE # Terms of use for the project
+│
+├── Data/ # Folder containing raw data
+│ ├── marketing_data_raw.csv # Original dataset
+│
+├── Analysis/ # Folder containing analysis files
+│ ├── Marketing_Campaign_Analysis.xlsx # Excel file with cleaned data, analysis, and dashboard
+│
+├── Screenshots/ # Folder containing dashboard and chart images
+│ ├── Dashboard.png # Screenshot of the Excel dashboard
+
 ## Methodology
 1. **Data Cleaning**:
    - Replaced missing values in the `Income` column with the average ($51,969).
