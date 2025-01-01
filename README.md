@@ -82,8 +82,8 @@ The dataset used in this project is available on [Kaggle](https://www.kaggle.com
 - **Excel Add-Ins**: None required.
 
 ## Author
-[Yashen Munasinghe]  
-[yashen.munasinghe@gmail.com]  
+Yashen Munasinghe  
+yashen.munasinghe@gmail.com  
 [LinkedIn Profile](http://www.linkedin.com/in/yashen-m)
 
 ## License
