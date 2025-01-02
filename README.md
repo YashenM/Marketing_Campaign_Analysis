@@ -59,30 +59,37 @@ Marketing_Campaign_Analysis/
 
 ## Results
 ### Key Findings
-1. **High-Income Customers Drive Spending**:
-   - Customers with incomes >$60k account for the majority of spending, particularly on wines ($349,532) and meat products ($188,655).
-2. **Education Level Influences Engagement**:
-   - PhD holders have the highest response rate (20.70%), followed by Master’s degree holders (15.45%).
-3. **Campaign Performance**:
-   - Campaign 4 has the highest acceptance rate (7.48%), followed by Campaign 3 (7.30%).
-4. **Low Complaints Indicate High Satisfaction**:
-   - Less than 1% of customers have complained, suggesting high satisfaction or low complaint reporting.
 
+1. **High-Income Customers Drive Spending**:
+   - Customers with incomes >$60k account for the majority of spending and thus contribute the majority of the business revenue.
+2. **Revenue Contribution by Product**:
+   - Wines ($678,683) and meat products ($372,668) make up 78% of the total revenue.
+3. **Education Level Influences Engagement**:
+   - PhD holders have the highest response rate (20.70%), followed by Master’s degree holders (15.45%).
+   - The majority of customers are graduates (1,126), followed by PhD holders (483), but graduates’ response rate is relatively low (13.41%).
+4. **Campaign Performance**:
+   - The final campaign has the highest acceptance rate (14.78%), followed by Campaign 4 (7.48%).
+5. **Low Complaints Indicate High Satisfaction**:
+   - Less than 1% of customers have complained during the last two years, suggesting high satisfaction or low complaint reporting.
+  
 ### Recommendations
 1. **Target High-Value Segments**:
    - Focus on high-income customers (>$60k) and PhD holders for premium product campaigns.
+   - Promotions should focus on graduates aggresively.
+   - Focus campaigns on fish products, sweet products, gold products, and fruit more aggressively, as data suggests these categories combined contribute up to 22% of the total revenue.
 2. **Optimize Purchase Channels**:
    - Enhance in-store and catalog experiences for high-income and married customers.
 3. **Replicate Successful Campaigns**:
-   - Analyze the strategies used in Campaigns 3 and 4 and apply them to future campaigns.
+   - Analyze the strategies used in final campaign and campaign 4, and apply them to future campaigns.
 4. **Reduce Inefficiencies**:
-   - Limit campaigns targeting low-income customers (<=$20k), as they have low response rates and spending.
+   - Limit campaigns targeting low-income customers (<40k), as they have low response rates and spending.
 
 ### Impact
 1. **Revenue Growth**:
-   - Targeting high-income customers could increase wine and meat product sales by 10%, generating an estimated $50,000 in additional revenue annually.
+   - Targeting graduate customers and improving their engagement by 10% could result in an estimated $70k in additional annual revenue.
+   - A 10% increase in the sales of fish products, sweet products, gold products, and fruit could generate more than $30k in additional revenue.
 2. **Cost Savings**:
-   - Reducing campaigns for low-income customers could save $5,000 annually in marketing costs.
+   - Reducing campaigns for low-income customers could save more than 30% annually in marketing costs.
 3. **Improved Engagement**:
    - Focusing on high-response segments (e.g., PhD holders, married customers) could increase campaign response rates by 15%.
 
